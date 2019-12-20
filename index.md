@@ -8,7 +8,11 @@ Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan Un
 
 ## Research Interests
 
+Here are my recent research interests:
 
+- Unsupervised Sequence-to-Sequence Learning (e.g. UMT, Text Style Transfer)
+- Learning Natural Language in an Interactive Environment (e.g. Text Game)
+- Natural Language Visual Grounding (e.g. Vision-and-Language Navigation)
 
 
 
