@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}).  
+Hi, there! Here is Ning Dai. I'm now a senior undergraduate student in the Department of Computer Science at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}).  
 
 
 
@@ -8,7 +8,7 @@ Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan Un
 
 ## Research Interests
 
-Here are my recent research interests:
+Generally, I'm doing research on **Natural Language Processing** and **Machine Learning**. So far, I have played with a lot of topics in NLP and ML, such as Reinforcement Learning, Dependency Parsing, Text Generation and Semantic Parsing, etc. Specifically, here are the topics that I'm recently interested in:
 
 - Unsupervised Sequence-to-Sequence Learning 
 
