@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-Hi, there! Here is Ning Dai. I'm now an undergraduate student at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}). 
+Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}). 
 
 
 
@@ -28,19 +28,19 @@ Proceedings of the 57th Annual Meeting of the Association for Computational Ling
 
 
 
-## Internships
+## Experiences
 
 ------
 
-**Montreal Institute for Learning Algorithms (Mila)**
-
-*July 2019 ~ October 2019*, Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
-
-------
-
-**AWS Shanghai AI Lab**
+**AWS Shanghai AI Lab**   ![aws_logo](./assets/img/aws_logo.png)
 
 *November 2019 ~ NOW*, Applied Scientist Intern
+
+------
+
+**Montreal Institute for Learning Algorithms (Mila)** ![mila_logo](./assets/img/mila_logo.png)
+
+*July 2019 ~ October 2019*, Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
 
 ------
 
