@@ -32,7 +32,7 @@ Proceedings of the 57th Annual Meeting of the Association for Computational Ling
 
 ------
 
-**AWS Shanghai AI Lab**   <p align="right">![aws_logo](./assets/img/aws_logo.png)</p>
+**AWS Shanghai AI Lab**  <img src='./assets/img/aws_logo.png' align='right'> 
 
 *November 2019 ~ NOW*, Applied Scientist Intern
 
