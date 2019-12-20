@@ -8,7 +8,7 @@ Hi, there! Here is Ning Dai. I'm now a senior undergraduate student in the Depar
 
 ## Research Interests
 
-Generally, I'm doing research on **Natural Language Processing** and **Machine Learning**. So far, I have played with a lot of topics in NLP and ML, such as Reinforcement Learning, Dependency Parsing, Text Generation and Semantic Parsing, etc. Specifically, here are the topics that I'm recently interested in:
+Generally, I'm doing research on **Natural Language Processing** and **Machine Learning**. So far, I have explored a lot of topics in NLP and ML, such as Reinforcement Learning, Dependency Parsing, Text Generation and Semantic Parsing, etc. Specifically, here are the topics that I'm recently interested in:
 
 - Unsupervised Sequence-to-Sequence Learning 
 
