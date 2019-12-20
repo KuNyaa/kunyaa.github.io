@@ -28,7 +28,7 @@ Here are my recent research interests:
 
 ------
 
-*<font face ="Times New Roman">Style Transformer:  Unpaired Text Style Transfer without Disentangled Latent Representation</font>* (ACL 2019)  [[paper]](https://www.aclweb.org/anthology/P19-1601.pdf){:target="_blank"}  [[code]](https://github.com/fastnlp/style-transformer){:target="_blank"}  
+*<font face ="Times New Roman" size="6">Style Transformer:  Unpaired Text Style Transfer without Disentangled Latent Representation</font>* (ACL 2019)  [[paper]](https://www.aclweb.org/anthology/P19-1601.pdf){:target="_blank"}  [[code]](https://github.com/fastnlp/style-transformer){:target="_blank"}  
 
 **Ning Dai**, Jianze Liang, Xipeng Qiu, Xuanjing Huang
 
