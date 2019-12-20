@@ -12,7 +12,7 @@ Here are my recent research interests:
 
 - Unsupervised Sequence-to-Sequence Learning 
 
-  (e.g. UMT, Text Style Transfer)
+  (e.g. Unsupervised Machine Translation, Text Style Transfer)
 
 - Learning Natural Language in an Interactive Environment 
 
@@ -28,15 +28,11 @@ Here are my recent research interests:
 
 ------
 
-*Style Transformer:  Unpaired Text Style Transfer without Disentangled Latent Representation*
+*Style Transformer:  Unpaired Text Style Transfer without Disentangled Latent Representation* (ACL 2019)  [[paper]](https://www.aclweb.org/anthology/P19-1601.pdf){:target="_blank"}  [[code]](https://github.com/fastnlp/style-transformer){:target="_blank"}  
 
 **Ning Dai**, Jianze Liang, Xipeng Qiu, Xuanjing Huang
 
-Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)  [[paper]](https://www.aclweb.org/anthology/P19-1601.pdf){:target="_blank"}  [[code]](https://github.com/fastnlp/style-transformer){:target="_blank"}  
-
 ------
-
-
 
 
 
