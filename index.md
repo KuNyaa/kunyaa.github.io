@@ -42,13 +42,13 @@ Here are my recent research interests:
 
 **AWS Shanghai AI Lab**  <img src='./assets/img/aws_logo.png' align='right'> 
 
-*Nov 2019 ~ NOW*     ‖  Applied Scientist Intern
+*<font face ="Times New Roman">Nov 2019 ~ NOW</font>*     ‖  Applied Scientist Intern
 
 ------
 
 **Montreal Institute for Learning Algorithms (Mila)**  <img src='./assets/img/mila_logo.png' align='right'>
 
-*Jul 2019 ~ Oct 2019* ‖  Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
+*<font face ="Times New Roman">Jul 2019 ~ Oct 2019</font>* ‖  Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
 
 ------
 
