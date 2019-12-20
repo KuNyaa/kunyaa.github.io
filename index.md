@@ -32,15 +32,15 @@ Proceedings of the 57th Annual Meeting of the Association for Computational Ling
 
 ------
 
-Montreal Institute for Learning Algorithms (Mila)
+**Montreal Institute for Learning Algorithms (Mila)**
 
-July 2019 ~ October 2019, Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
+*July 2019 ~ October 2019*, Research Intern,  [Prof. Christopher Pal](https://mila.quebec/en/person/pal-christopher/){:target="_blank"}'s Group
 
 ------
 
-AWS Shanghai AI Lab
+**AWS Shanghai AI Lab**
 
-November 2019 ~ NOW, Applied Scientist Intern
+*November 2019 ~ NOW*, Applied Scientist Intern
 
 ------
 
