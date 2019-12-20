@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}). 
+Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan University and also an undergraduate research assistant at FudanNLP Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}).  
 
 
 
@@ -10,9 +10,17 @@ Hi, there! Here is Ning Dai. I'm now an senior undergraduate student at Fudan Un
 
 Here are my recent research interests:
 
-- Unsupervised Sequence-to-Sequence Learning (e.g. UMT, Text Style Transfer)
-- Learning Natural Language in an Interactive Environment (e.g. Text Game)
-- Natural Language Visual Grounding (e.g. Vision-and-Language Navigation)
+- Unsupervised Sequence-to-Sequence Learning 
+
+  (e.g. UMT, Text Style Transfer)
+
+- Learning Natural Language in an Interactive Environment 
+
+  (e.g. Text Game)
+
+- Natural Language Visual Grounding 
+
+  (e.g. Vision-and-Language Navigation)
 
 
 
