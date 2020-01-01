@@ -12,7 +12,7 @@ Generally, I'm doing research on **Natural Language Processing** and **Machine L
 
 - Unsupervised Sequence-to-Sequence Learning 
 
-  (e.g. Unsupervised Machine Translation, Text Style Transfer)
+  (e.g. Unsupervised Machine Translation, Unpaired Text Style Transfer)
 
 - Learning Natural Language in an Interactive Environment 
 
