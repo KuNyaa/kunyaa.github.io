@@ -42,7 +42,7 @@ Generally, I'm doing research on **Natural Language Processing** and **Machine L
 
 **AWS Shanghai AI Lab**  <img src='./assets/img/aws_logo.png' align='right'> 
 
-*<font face ="Times New Roman">Nov 2019 ~ NOW</font>*     ‖  Applied Scientist Intern
+*<font face ="Times New Roman">Nov 2019 ~ NOW</font>*     ‖  Applied Scientist Intern,  [Prof. Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang){:target="_blank"}'s Group
 
 ------
 
