@@ -3,4 +3,5 @@ logo: /assets/img/logo.png
 description: This photo was taken during my internship at Mila.
 show_downloads: false
 google_analytics:
+google_scholar: https://scholar.google.com/citations?hl=en&user=hbAIhaQAAAAJ
 theme: jekyll-theme-minimal
