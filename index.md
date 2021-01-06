@@ -8,17 +8,17 @@ Hi, there! Here is Ning Dai. I'm now a senior undergraduate student in the Depar
 
 ## Research Interests
 
-Generally, I'm doing research on **Natural Language Processing** and **Machine Learning**. So far, I have explored a lot of topics in NLP and ML, such as Reinforcement Learning, Dependency Parsing, Text Generation and Semantic Parsing, etc. Specifically, here are the topics that I'm recently interested in:
+Generally, I'm doing research on **Natural Language Processing** and **Machine Learning**. So far, I have explored a lot of topics in NLP and ML, such as Reinforcement Learning, Dependency Parsing, Text Generation and Self-supervised Representation Learning, etc. Specifically, here are the topics that I'm recently interested in:
+
+- Multilingual Representation Learning
+
+  (e.g. Probing/Understanding Multilingual Pre-training Models)
 
 - Unsupervised Sequence-to-Sequence Learning 
 
   (e.g. Unsupervised Machine Translation, Unpaired Text Style Transfer)
 
-- Learning Natural Language in an Interactive Environment 
-
-  (e.g. Text Game)
-
-- Natural Language Visual Grounding 
+- Grounded Language Learning 
 
   (e.g. Vision-and-Language Navigation)
 
@@ -34,15 +34,25 @@ Generally, I'm doing research on **Natural Language Processing** and **Machine L
 
 ------
 
+*<font face ="Times New Roman" size="4">Pre-trained Models for Natural Language Processing: A Survey</font>*   [[paper]](https://arxiv.org/pdf/2003.08271.pdf){:target="_blank"} 
+
+Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, **Ning Dai**, Xuanjing Huang
+
+------
+
 
 
 ## Experiences
+
+**ByteDance AI Lab**  <img src="C:/Users/kunya/Desktop/Homepage/kunyaa.github.io/assets/img/ByteDance_logo.jpg" align='right'> 
+
+*<font face ="Times New Roman">Sept 2020 ~ Now</font>*     ‖  Research Intern,  MLNLC  Group
 
 ------
 
 **AWS Shanghai AI Lab**  <img src='./assets/img/aws_logo.png' align='right'> 
 
-*<font face ="Times New Roman">Nov 2019 ~ NOW</font>*     ‖  Applied Scientist Intern,  [Prof. Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang){:target="_blank"}'s Group
+*<font face ="Times New Roman">Nov 2019 ~ Aug 2020</font>*     ‖  Applied Scientist Intern,  [Prof. Zheng Zhang](https://shanghai.nyu.edu/academics/faculty/directory/zheng-zhang){:target="_blank"}'s Group
 
 ------
 
