@@ -44,7 +44,7 @@ Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, **Ning Dai**, Xuanjing Huang
 
 ## Experiences
 
-**ByteDance AI Lab**  <img src="C:/Users/kunya/Desktop/Homepage/kunyaa.github.io/assets/img/ByteDance_logo.jpg" align='right'> 
+**ByteDance AI Lab**  <img src="C:/Users/kunya/Desktop/Homepage/kunyaa.github.io/assets/img/ByteDance_logo.png" align='right'> 
 
 *<font face ="Times New Roman">Sept 2020 ~ Now</font>*     ‖  Research Intern,  MLNLC  Group
 
