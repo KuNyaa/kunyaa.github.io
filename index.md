@@ -1,6 +1,8 @@
 ## Welcome to my homepage!
 
-Hi, there! Here is Ning Dai. I'm now a senior undergraduate student in the Department of Computer Science at **Fudan University** and also an undergraduate research assistant at **FudanNLP** Group (working with [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"} and [Prof. Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en){:target="_blank"}).  
+Hi, there! Here is Ning Dai. I'm now a first-year PhD student in the School of Electrical Engineering and Computer Science at **Oregon State University** (advised by Prof. Liang Huang](https://web.engr.oregonstate.edu/~huanlian/){:target="_blank"}). 
+
+Previously, I was an undergraduate research assistant at **FudanNLP** Group (advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"}).  
 
 
 
@@ -18,9 +20,9 @@ Generally, I'm doing research on **Natural Language Processing** and **Machine L
 
   (e.g. Unsupervised Machine Translation, Unpaired Text Style Transfer)
 
-- Grounded Language Learning 
+- Semantic Parsing and Program Synthesis
 
-  (e.g. Vision-and-Language Navigation)
+  (e.g. Code Generation)
 
 
 
@@ -46,7 +48,7 @@ Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, **Ning Dai**, Xuanjing Huang
 
 **ByteDance AI Lab**  <img src="./assets/img/ByteDance_logo.png" align='right'> 
 
-*<font face ="Times New Roman">Sept 2020 ~ Now</font>*     ‖  Research Intern,  MLNLC  Group
+*<font face ="Times New Roman">Sept 2020 ~ Aug 2021</font>*     ‖  Research Intern,  MLNLC  Group
 
 ------
 
