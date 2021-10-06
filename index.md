@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-Hi, there! Here is Ning Dai. I'm now a first-year PhD student in the School of Electrical Engineering and Computer Science at **Oregon State University** (advised by Prof. Liang Huang](https://web.engr.oregonstate.edu/~huanlian/){:target="_blank"}). 
+Hi, there! Here is Ning Dai. I'm now a first-year PhD student in the School of Electrical Engineering and Computer Science at **Oregon State University** (advised by [Prof. Liang Huang](https://web.engr.oregonstate.edu/~huanlian/){:target="_blank"}). 
 
 Previously, I was an undergraduate research assistant at **FudanNLP** Group (advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html){:target="_blank"}).  
 
